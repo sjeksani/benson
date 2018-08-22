@@ -99,3 +99,5 @@ Add support for loading animations
 v1.1
 Added pagination module option
 https://github.com/michaelbromley/angularUtils/tree/master/src/directives/pagination
+
+Look at youtube https://www.youtube.com/watch?v=fg90yk0UqXA
